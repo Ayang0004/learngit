@@ -24,3 +24,5 @@
 	public String agentStatistics;
 	//  技能组聊天入口报表
 	public String chatSkillReport;
+
+	public String ayang;
